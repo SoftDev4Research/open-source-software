@@ -10,15 +10,15 @@ Open Source Software guidelines recommended by the SoftDev4LS working group
   a. Never write your own license.  
   b. Unless there is a very good reason not to, you should use an OSI-approved Open Source License.  
     i. If your institution or project already has license policy, use that one.  
-    ii. Otherwise we advise choosing one of the license here (link), depending of your preferences  
+    ii. Otherwise we advise choosing one of the license here (link needed - Apache 2, BSD, MIT??), depending of your preferences  
 3. Open development should be enforced from the start of the project, if possible  
   a. Development should be done in a publicly visible version-controlled repository  
-    i. This can be an institutionally hosted repository or externally hosted at e.g. GitHub, BitBucket
-    ii. You should use semantic versioning (see http://semver.org/)
-  b. You should make it clear what is being communicated via which channels “Channels should be well documented”
-    i. For guidance of what channels are useful see: 
-  c. All decision-making should be transparent and on the recognised project communication channels
-    i. Avoid “private” decisions (e.g. discussing with your co-developer in the coffee room without then recording the decision publicly) 
+    i. This can be an institutionally hosted repository or externally hosted at e.g. GitHub, BitBucket  
+    ii. You should use [semantic versioning](http://semver.org/)  
+  b. You should make it clear what is being communicated via which channels “Channels should be well documented”  
+    i. For guidance of what channels are useful see:  
+  c. All decision-making should be transparent and on the recognised project communication channels  
+    i. Avoid “private” decisions (e.g. discussing with your co-developer in the coffee room without then recording the decision publicly)  
     ii. Have a public roadmap  
     iii. Strive to include the community in decision-making, where possible  
   d. Be clear how people can contribute to your project  
@@ -28,7 +28,7 @@ Open Source Software guidelines recommended by the SoftDev4LS working group
       1. For examples: https://github.com/google/styleguide/  
     iv. Make sure contributions are allowed and compatible  
       1. Contributions should be in scope  
-      2. Contributions should be checked for license compatibility (see: http://www.gnu.org/licenses/license-list.html)  
+      2. Contributions should be checked for [license compatibility](http://www.gnu.org/licenses/license-list.html)  
       3. Contributors should have the right to contribute (see copyright)  
     v. Decide if you need a formal Contributor Agreement  
     v. Consider labelling issues by “ease of engagement” to encourage new contributors  
@@ -36,7 +36,7 @@ Open Source Software guidelines recommended by the SoftDev4LS working group
     i. Make people feel appreciated for their contributions  
     ii. Don’t assume you know why someone did something, check why  
     iii. Examples are here: TBD  
-  f. Use existing tools to help manage your software, rather than creating your own (see link on OSS-Watch website, http://oss-watch.ac.uk/resources/communitytools)
+  f. Use [existing tools](http://oss-watch.ac.uk/resources/communitytools) to help manage your software, rather than creating your own  
 
 ## Developing the community
 
@@ -54,7 +54,7 @@ Open Source Software guidelines recommended by the SoftDev4LS working group
   a. You should publish under the same license  
   b. You should get a DOI for each major release  
     i. And versions associated with publications coming from your project  
-  c. Zenodo and FigShare both enable DOIs for software https://guides.github.com/activities/citable-code/  
+  c. Zenodo and FigShare both enable DOIs for [software citation](https://guides.github.com/activities/citable-code/)  
 
 ##Striving for the meritocratic bazaar
 
@@ -62,7 +62,7 @@ Open Source Software guidelines recommended by the SoftDev4LS working group
   a. Be transparent about your current governance model  
   b. Formalise your communication channels for your contributors  
   c. Open up your decision-making  
-    i. For examples of different open source governance models see: http://oss-watch.ac.uk/resources/governancemodels  
+    i. See examples of different [open source governance models](http://oss-watch.ac.uk/resources/governancemodels)  
   d. Formalise roles in the project and the “promotion path”  
     i. How do people become associated with key roles?  
   e. Recognise that “you are not your code”  
