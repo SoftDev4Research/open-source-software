@@ -1,5 +1,5 @@
 # open-source-software
-Open Source Software guidelines recommended by the SoftDev4LS working group
+Open Source Software guidelines recommended by the [SoftDev4LS](https://github.com/SoftDev4LS) working group
 
 ## The basics
 
@@ -10,13 +10,16 @@ Open Source Software guidelines recommended by the SoftDev4LS working group
     * Never write your own license.
     * Unless there is a very good reason not to, you should use an OSI-approved Open Source License.
         - If your institution or project already has license policy, use that one.
-        - Otherwise we advise choosing one of the license here (link needed - Apache 2, BSD, MIT??), depending of your preferences
+        - Otherwise we advise choosing between [Apache 2.0](https://en.wikipedia.org/wiki/Apache_License),
+        [BSD](https://en.wikipedia.org/wiki/BSD_licenses) or [MIT](https://en.wikipedia.org/wiki/MIT_License)),
+        depending of your preferences
 3. Open development should be enforced from the start of the project, if possible
     * Development should be done in a publicly visible version-controlled repository
-        - This can be an institutionally hosted repository or externally hosted at e.g. GitHub, BitBucket
+        - This can be an institutionally hosted repository or externally hosted at e.g. [GitHub](https://github.com/),
+        [BitBucket](https://bitbucket.org/)
         - You should use [semantic versioning](http://semver.org/)
     * You should make it clear what is being communicated via which channels “Channels should be well documented”
-        - For guidance of what channels are useful see:
+        - For guidance of what channels are useful see [relevant chapter in "Producing Open Source Software](http://producingoss.com/en/getting-started.html#communications-channels)
     * All decision-making should be transparent and on the recognised project communication channels
         - Avoid “private” decisions (e.g. discussing with your co-developer in the coffee room without then recording the decision publicly)
         - Have a public roadmap
@@ -31,12 +34,13 @@ Open Source Software guidelines recommended by the SoftDev4LS working group
             * Contributions should be checked for [license compatibility](http://www.gnu.org/licenses/license-list.html)
             * Contributors should have the right to contribute (see copyright)
         - Decide if you need a formal Contributor Agreement
-        - Consider labelling issues by “ease of engagement” to encourage new contributors
+        - Consider labelling issues by “ease of engagement” to encourage new contributors (need examples)
     * Your project should have a Code of Conduct in your repository and linked from your website (“Be nice”)
         - Make people feel appreciated for their contributions
         - Don’t assume you know why someone did something, check why
         - Examples are here: TBD
-    * Use [existing tools](http://oss-watch.ac.uk/resources/communitytools) to help manage your software, rather than creating your own  
+    * Use [existing tools](http://oss-watch.ac.uk/resources/communitytools) to help manage your software,
+    rather than creating your own  
 
 ## Developing the community
 
