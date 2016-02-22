@@ -100,7 +100,8 @@ peer review of the software code, not the science
 * “I will be liable if something bad happens when someone uses my software”
   *A good OSI-approved license will disclaim/waive liability better than having no license or an untested academic license
 * “I should be doing science, not open-sourcing software”
-    - Science is fundamentally based on accuracy and trust in results. Open source code can be more trusted (cf security community) than black box solutions (see Shining light into black boxes paper)
+    - Science is fundamentally based on accuracy and trust in results. Open source code can be more trusted (cf security community)
+    than black box solutions (see [Shining light into black boxes paper](http://hkl.hms.harvard.edu/uploads/image/pdfs/sliz2012science.pdf))
 * “I won’t receive any credit for my work”
     - Open-sourcing has been shown to improve citation and research impact in certain communities (reference needed)
 * “People will scoop me”
