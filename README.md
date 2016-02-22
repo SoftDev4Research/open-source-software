@@ -38,7 +38,8 @@ Open Source Software guidelines recommended by the [SoftDev4LS](https://github.c
     * Your project should have a Code of Conduct in your repository and linked from your website (“Be nice”)
         - Make people feel appreciated for their contributions
         - Don’t assume you know why someone did something, check why
-        - Examples are here: TBD
+        - Examples are here: [contributor covenant](http://contributor-covenant.org/), [bundler](http://bundler.io/conduct.html),
+        [CocoaPods](https://github.com/CocoaPods/CocoaPods/blob/master/CODE_OF_CONDUCT.md)
     * Use [existing tools](http://oss-watch.ac.uk/resources/communitytools) to help manage your software,
     rather than creating your own  
 
