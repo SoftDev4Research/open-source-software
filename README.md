@@ -90,7 +90,7 @@ peer review of the software code, not the science
     - You could consult an IP specialist such as OSS-Watch
     - Using an OSI-approved license will make it easier as commercial IP legal departments recognise them
 * “Getting my code ready to open source will take a lot of time and effort”
-    - The expected time benefits often outweigh the initial investment (See: Taverna move to Apache incubator process)
+    - The expected time benefits often outweigh the initial investment (See: [Taverna move to Apache incubator process](http://www.taverna.org.uk/2014/10/20/taverna-has-been-accepted-as-an-apache-incubator-project/))
     - It will help your internal development team
   * Enhances skills and CV
 * “An open source license will put off life sciences companies”
