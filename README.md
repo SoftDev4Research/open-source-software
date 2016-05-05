@@ -4,7 +4,7 @@ This group aims to work on a Open Source Policy for software develomoent in life
 ## Open Source policy snapshots
 The draft is open for comments as a [google doc](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit)
 
-### GitHub snapshots
+### Snapshots
 We are taking snapshots to have a reference of previus versions and modifications.
 
 Date | Version 
