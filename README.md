@@ -7,11 +7,16 @@ The draft is open for comments in a [google doc](https://docs.google.com/documen
 ### Snapshots
 We are taking snapshots to have a reference of previus versions and modifications.
 
+## Contributors
+[List of contributors](https://docs.google.com/spreadsheets/d/1JyFX5q2CQU7gzTuXrHrxKWYthnE9YcNWmu-qtB-nNxc/edit?usp=sharing) in the SoftDev4LS group and the open source policy
+
 Date | Version 
 --- | --- 
-[2015-12-16](https://github.com/SoftDev4LS/open-source-software/blob/master/2015-12-16%20Open%20source%20policy%20draft%200.1.md) | 0.1
-[2016-03-08](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-03-08%20Open%20source%20policy%20draft%200.2.md) | 0.2
 [2016-05-04](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-04%20Open%20source%20policy%20draft%200.2.md) | 0.2
+[2016-03-08](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-03-08%20Open%20source%20policy%20draft%200.2.md) | 0.2
+[2015-12-16](https://github.com/SoftDev4LS/open-source-software/blob/master/2015-12-16%20Open%20source%20policy%20draft%200.1.md) | 0.1
+
+
 
 
 ## Timeline
