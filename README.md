@@ -1,7 +1,7 @@
 # Open Source Software group
 This group aims to work on a Open Source Policy for software develomoent in life sciences
 
-## Open Source policy snapshots
+## Open Source policy draft
 The draft is open for comments in a [google doc](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit)
 
 ### Snapshots
