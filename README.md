@@ -2,7 +2,7 @@
 This group aims to work on a Open Source Policy for software develomoent in life sciences
 
 ## Open Source policy snapshots
-The draft is open for comments as a [google doc](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit)
+The draft is open for comments in a [google doc](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit)
 
 ### Snapshots
 We are taking snapshots to have a reference of previus versions and modifications.
@@ -29,8 +29,8 @@ Release OS policy draft 0.2 | 2016-03-08 | 2016-03-08 | Done | @Mateusz | - | @a
 [Integrate feedback from ELIXIR all-hands break out session](https://github.com/SoftDev4LS/open-source-software/issues/08) | 2016-03-09 | 2016-05-10 | In progress | @Steve and @Mateusz | - | -
 Release OS policy draft 0.2.1 | 2016-05-11 | 2016-05-11 | - | @Steve and @Mateusz | - | @all
 Release OS policy draft 0.3 | 2016-05-12 | 2016-05-12 | - | @Rafael | @Steve and @Mateusz | @all
-Provide feedback for OS policy draft 0.3 | 2016-05-12 | 2016-06-14 | Done | @all | - | -
-[Share widely and proactively version 0.3](https://github.com/SoftDev4LS/open-source-software/issues/03) | 2016-05-12 | 2016-06-14 | Done | @Rafael  | @Neil, @Steve & @Mateusz | @all
+Provide feedback for OS policy draft 0.3 | 2016-05-12 | 2016-06-14 | - | @all | - | -
+[Share widely and proactively version 0.3](https://github.com/SoftDev4LS/open-source-software/issues/03) | 2016-05-12 | 2016-06-14 | - | @Rafael  | @Neil, @Steve & @Mateusz | @all
 [**On behalf of the SofDev4LS group present proposal to ELIXIR Heads of the Nodes**](https://github.com/SoftDev4LS/open-source-software/issues/11) | 2016-06-14 | 2016-06-14| - | @Rafael | - | @all
 Integrate feedback from HoNs | 2016-06-15  | 2016-06-20 | - | @Rafael | @Steve and @Mateusz | -
 [Release OS policy draft 0.4](https://github.com/SoftDev4LS/open-source-software/issues/10) | 2016-06-21 | 2016-06-21 | - | @Rafael | @Neil, @Steve & @Mateusz  | @all
