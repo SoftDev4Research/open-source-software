@@ -32,5 +32,5 @@ Release OS policy draft 0.3 | 2016-05-12 | 2016-05-12 | - | @Rafael | @Steve and
 [Provide feedback for OS policy draft 0.3](https://github.com/SoftDev4LS/open-source-software/issues/9) | 2016-05-12 | 2016-06-14 | - | @all | - | -
 [Share widely and proactively version 0.3](https://github.com/SoftDev4LS/open-source-software/issues/03) | 2016-05-12 | 2016-06-14 | - | @Rafael  | @Neil, @Steve & @Mateusz | @all
 [**On behalf of the SofDev4LS group present proposal to ELIXIR Heads of the Nodes**](https://github.com/SoftDev4LS/open-source-software/issues/11) | 2016-06-14 | 2016-06-14| - | @Rafael | - | @all
-Integrate feedback from HoNs | 2016-06-15  | 2016-06-20 | - | @Rafael | @Steve and @Mateusz | -
-[Release OS policy draft 0.4](https://github.com/SoftDev4LS/open-source-software/issues/10) | 2016-06-21 | 2016-06-21 | - | @Rafael | @Neil, @Steve & @Mateusz  | @all
+[Integrate feedback from HoNs](https://github.com/SoftDev4LS/open-source-software/issues/10) | 2016-06-15  | 2016-06-20 | - | @Rafael | @Steve and @Mateusz | -
+Release OS policy draft 0.4 | 2016-06-21 | 2016-06-21 | - | @Rafael | @Neil, @Steve & @Mateusz  | @all
