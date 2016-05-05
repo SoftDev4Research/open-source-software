@@ -24,15 +24,15 @@ Date | Version
 Action/Task | From | To | Status | R/A | C | I
 --- | --- | --- | --- | --- | --- | ---
 [**KickOff meeting**](https://docs.google.com/document/d/1kYvzigGBLtQAx4Jc7E0nsFu1oiiiitRR3vdWu7vGo1k/edit?usp=sharing) | 2015-12-14 | 2015-12-15 | Done | @Neil, @Rafael & @Manuel | @all | -
-[Release OS policy draft 0.1](https://github.com/SoftDev4LS/open-source-software/blob/master/2015-12-16%20Open%20source%20policy%20draft%200.1.md) | 2015-12-16 | 2015-12-16 | Done | @Ian | - | @all
+[*Release OS policy draft 0.1*](https://github.com/SoftDev4LS/open-source-software/blob/master/2015-12-16%20Open%20source%20policy%20draft%200.1.md) | 2015-12-16 | 2015-12-16 | Done | @Ian | - | @all
 [Provide feedback for OS policy draft 0.1](https://github.com/SoftDev4LS/open-source-software/issues/02) | 2015-12-17 | 2016-03-07 | Done | @all | - | -
 [Invite @all to OS break session at the ELIXIR all hands session](https://github.com/SoftDev4LS/open-source-software/issues/06) | 2016-02-09 | 2016-02-09 | Done | @Rafael | - | @all
 [Prepare agenda for OS break session at the ELIXIR all hands session](https://github.com/SoftDev4LS/open-source-software/issues/07) | 2016-03-01 | 2016-03-09 | Done | @Mateusz and @Neil | - | -
-Release OS policy draft 0.2 | 2016-03-08 | 2016-03-08 | Done | @Mateusz | - | @all
+[*Release OS policy draft 0.2*](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-03-08%20Open%20source%20policy%20draft%200.2.md) | 2016-03-08 | 2016-03-08 | Done | @Mateusz | - | @all
 [**OS break session at the ELIXIR all hands session**](https://drive.google.com/folderview?id=0B7f0XeB0a0HlS0E5QnFyTHhJSWM&usp=sharing) | 2016-03-09 | 2016-03-09 | Done | @Mateusz and @Steve | - | @all
 [Provide feedback for OS policy draft 0.2](https://github.com/SoftDev4LS/open-source-software/issues/4) | 2016-03-09 | 2016-05-10 | Done | @all | - | -
 [Integrate feedback from ELIXIR all-hands break out session](https://github.com/SoftDev4LS/open-source-software/issues/08) | 2016-03-09 | 2016-05-10 | In progress | @Steve and @Mateusz | - | -
-[Release an snapshot of OS policy draft 0.2](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-03-08%20Open%20source%20policy%20draft%200.2.md) | 2016-05-11 | 2016-05-11 | - | @Steve and @Mateusz | - | -
+*Release an snapshot of OS policy draft 0.2* | 2016-05-11 | 2016-05-11 | - | @Steve and @Mateusz | - | -
 Release OS policy draft 0.3 | 2016-05-12 | 2016-05-12 | - | @Steve and @Mateusz & @Rafael | - | @all
 [Provide feedback for OS policy draft 0.3](https://github.com/SoftDev4LS/open-source-software/issues/9) | 2016-05-12 | 2016-06-14 | - | @all | - | -
 [Share widely and proactively version 0.3](https://github.com/SoftDev4LS/open-source-software/issues/03) | 2016-05-12 | 2016-06-14 | - | @Rafael  | @Neil, @Steve & @Mateusz | @all
