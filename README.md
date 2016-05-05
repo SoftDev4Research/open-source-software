@@ -24,7 +24,7 @@ Release OS policy draft 0.1 | 2015-12-16 | 2015-12-16 | Done | @Ian | - | @all
 [Invite @all to OS break session at the ELIXIR all hands session](https://github.com/SoftDev4LS/open-source-software/issues/06) | 2016-02-09 | 2016-02-09 | Done | @Rafael | - | @all
 [Prepare agenda for OS break session at the ELIXIR all hands session](https://github.com/SoftDev4LS/open-source-software/issues/07) | 2016-03-01 | 2016-03-09 | Done | @Mateusz and @Neil | - | -
 Release OS policy draft 0.2 | 2016-03-08 | 2016-03-08 | Done | @Mateusz | - | @all
-[**OS break session at the ELIXIR all hands session**](https://github.com/SoftDev4LS/open-source-software/issues/05) | 2016-03-09 | 2016-03-09 | Done | @Mateusz and @Steve | - | @all
+[**OS break session at the ELIXIR all hands session**](https://drive.google.com/folderview?id=0B7f0XeB0a0HlS0E5QnFyTHhJSWM&usp=sharing) | 2016-03-09 | 2016-03-09 | Done | @Mateusz and @Steve | - | @all
 [Provide feedback for OS policy draft 0.2](https://github.com/SoftDev4LS/open-source-software/issues/09) | 2016-03-09 | 2016-05-10 | Done | @all | - | -
 [Integrate feedback from ELIXIR all-hands break out session](https://github.com/SoftDev4LS/open-source-software/issues/08) | 2016-03-09 | 2016-05-10 | In progress | @Steve and @Mateusz | - | -
 Release OS policy draft 0.2.1 | 2016-05-11 | 2016-05-11 | - | @Steve and @Mateusz | - | @all
