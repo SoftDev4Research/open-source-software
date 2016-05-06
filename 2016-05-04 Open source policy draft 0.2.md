@@ -1,7 +1,7 @@
 # DRAFT: Open source policy 0.2
 May 4, 2016
 
-Scope? System developer that want to convince managers or PIs? 
+Scope? System developer that want to convince managers or PIs?
 
 ## The basics
 1. Open source your project unless you cannot (open by default)
@@ -11,26 +11,26 @@ Scope? System developer that want to convince managers or PIs?
 2. Attached a suitable license to the source code repository, and ensure compliance with third party software licenses
     3. Article on open source license compatibility
         2. [http://www.wegtam.net/article/combination-and-compatibility-open-source-software-licenses](http://www.wegtam.net/article/combination-and-compatibility-open-source-software-licenses)
-    4. Unless there is a very good reason not to, you should use an [OSI-approved Open Source License](https://opensource.org/licenses). 
-        3. If your institution or project already has license policy, use that one. 
-        4. Otherwise we advise choosing one of the license here ([link](http://choosealicense.com/)), depending of your preferences
-    5. If you cannot use an OSI-approved Open Source License, at least adhere to template of [OSI-approved Open Source License](https://opensource.org/licenses) or [Free for academic use Licence](https://opensource.org/licenses/artistic-license-2.0).
+    4. Unless there is a very good reason not to, you should use an [OSI-approved Open Source License](https://opensource.org/licenses).
+        3. If your institution or project already has a license policy, use that one.
+        4. Otherwise we advise choosing one of the license here ([link](http://choosealicense.com/)), depending on your preferences
+    5. If you cannot use an OSI-approved Open Source License, at least adhere to the template of [OSI-approved Open Source License](https://opensource.org/licenses) or [Free for academic use Licence](https://opensource.org/licenses/artistic-license-2.0).
 3. Open development should be enforced from the start of the project, if possible
 	Read and apply [10 simple rules for Ten Simple Rules for the Open Development of Scientific Software](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3516539/)
     6. Development should be done in a publicly visible version-controlled repository
         5. This can be an institutionally hosted repository or externally hosted at e.g. GitHub, BitBucket
         6. You should use semantic versioning (see [http://semver.org/](http://semver.org/)) appropriately at a later stage of the project (e.g. when first external user becomes involved)
     7. You should make it clear what is being communicated via which channels "Channels should be well documented"
-        7. For guidance of what channels are useful [see this document](http://producingoss.com/en/getting-started.html#communications-channels) 
+        7. For guidance of what channels are useful [see this document](http://producingoss.com/en/getting-started.html#communications-channels)
         8. Produce user documentation, README file, how to install the software
     8. All decision-making should be transparent and on the recognised project communication channels
-        9. Avoid "private" decisions (e.g. discussing with your co-developer in the coffee room without then recording the decision publicly) 
+        9. Avoid "private" decisions (e.g. discussing with your co-developer in the coffee room without then recording the decision publicly)
         10. Have a public roadmap
         11. Strive to include the community in decision-making, where possible
     9. Be clear how people can contribute to your project
         12. Make it clear you really want people to contribute
         13. Make it clear how to set up your development environment and build the software
-        14. good practice is to create CONTRIBUTING file, that describes how to contribute ([some more details on GitHub docs](https://github.com/blog/1184-contributing-guidelines))
+        14. Good practice is to include a CONTRIBUTING file at the top level of the repository, that describes how to contribute ([some more details on GitHub docs](https://github.com/blog/1184-contributing-guidelines))
         15. Create guidelines for common contribution tasks
         16. Have a code "style guide" and build enforcement into your development workflow
             1. For examples: [https://github.com/google/styleguide/](https://github.com/google/styleguide/)
@@ -48,11 +48,11 @@ Scope? System developer that want to convince managers or PIs?
         21. Don't assume you know why someone did something, check why
         22. Examples are here: [contributor covenant](http://contributor-covenant.org/)
     12. Use existing tools to help manage your software, rather than creating your own (see link on OSS-Watch website, [http://oss-watch.ac.uk/resources/communitytools](http://oss-watch.ac.uk/resources/communitytools))
-    
+
 ## Developing the community
 4. Work to build a community around your software
     13. Document what your software does!
-        23. Publish use cases 
+        23. Publish use cases
     14. Publicise your software through conventional and non-conventional means
         24. Consider nominating "evangelists" from your community
         25. Use videos to help. Consider getting recognised scientists to record / appear in these
@@ -61,16 +61,16 @@ Scope? System developer that want to convince managers or PIs?
         27. For instance hackathons, tutorials, workshops
     16. "Piggy-back" on existing events that your community attends
         28. e.g. BOSC, ISBE
-    17.  
+    17.
 5. Publish your software in a DOI-issuing repository
     18. You should publish under the same license
     19. You should get a DOI for each major release
         29. And versions associated with publications coming from your project
     20. Zenodo and FigShare both enable DOIs for software [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/) 
     21. Advertise the DOI at the top level of your repository and in a CITATION file
-    
+
 ## Striving for the meritocratic bazaar
-6. Become more open as your project matures 
+6. Become more open as your project matures
     22. Be transparent about your current governance model
     23. Formalise your communication channels for your contributors
     24. Open up your decision-making
@@ -79,16 +79,17 @@ Scope? System developer that want to convince managers or PIs?
         31. How do people become associated with key roles?
     26. Recognise that "you are not your code"
         32. [Be able to separate criticism of your software from criticism about yourself](http://www.goodreads.com/quotes/33711-don-t-take-anything-personally-nothing-others-do-is-because-of)
-# Fears of open sourcing & some ways to handle them
+
+## Fears of open sourcing & some ways to handle them
 (See Victoria Stodden's work on identifying fears: [http://stanford.edu/~vcs/papers/SMPRCS2010.pdf](http://stanford.edu/~vcs/papers/SMPRCS2010.pdf) )
 * "My software is such a bunch of hacks that no-one will want to contribute to it"
     * If it's closed, no-one can contribute to it anyway. If it’s useful and open, then people could still contribute, even if the code quality is not great
     * Even inspiration (*how things were done once*) is worth sharing
-* Someone takes my software and sets it up as a service, but wrongly. This would reflect badly on my original software (e.g. they used the wrong data).
+* "Someone takes my software and sets it up as a service, but wrongly. This would reflect badly on my original software (e.g. they used the wrong data)."
     * Way #1: You can use trademark enforcement of the name to make it clear that this is not your or your software's responsibility
     * Way #2: Document your setup [better], automate it (use Docker or similar tools); keep communication channels in order
 * "My group's software (unique methodology, specificity, knowledge) gives our research a competitive edge that will be lost if we released our code in the open."
-    * Research is way more than the software that facilitates it, and the software usually lags the ideas
+    * Research is way more than the software that facilitates it, and the software usually lags behind the ideas
     * If your edge is only the software, it's just a matter of time until you're no longer competitive
     * Your research is probably held back by the bugs you haven't found yet that others would
 * "Other people need the 'right data' to be able to use my software, and I can’t give this to them because it’s protected/confidential/etc so my software is no use"
@@ -102,7 +103,7 @@ Scope? System developer that want to convince managers or PIs?
     * Using an OSI-approved license will make it easier as commercial IP legal departments recognise them
 * "Getting my code ready to open source will take a lot of time and effort"
     * The expected time benefits often outweigh the initial investment
-        * You 
+        * You
         * (See: Taverna move to Apache incubator process)
     * It will help your internal development team
         * Enhances skills and CV
@@ -120,8 +121,8 @@ Scope? System developer that want to convince managers or PIs?
     * Science is fundamentally based on accuracy and trust in results. Open source code can be more trusted (cf security community) than black box solutions (see [Shining light into black boxes paper](https://www.sciencemag.org/content/336/6078/159.summary))
     * Don't over do it if you don’t have time, just get what you have out there, it takes very little time
 * "I won't receive any credit for my work"
-    * Open-sourcing has been shown to improve citation and research impact in certain communities 
-    * Simply not true. It's very clear on github who contributes
+    * Open-sourcing has been shown to improve citation and research impact in certain communities
+    * Simply not true. It's very clear on Github who contributes
 * "People will scoop me"
     * Open-sourcing will tend to lead to more collaborations (leading to more publications) than other people scooping you
 * "I won't be able to publish a paper about my research / about my software"
