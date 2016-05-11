@@ -40,4 +40,4 @@ Take an snapshot of OS policy draft 0.2 | 2016-05-11=2 | 2016-05-12 | - | @Rafae
 [Integrate feedback from HoNs](https://github.com/SoftDev4LS/open-source-software/issues/10) | 2016-06-15  | 2016-06-20 | - | @Rafael | @Steve and @Mateusz | -
 *Release OS policy draft 0.4* | 2016-06-21 | 2016-06-21 | - | @Rafael | @Neil, @Steve & @Mateusz  | @all
 Provide feedback for OS policy draft 0.4 | 2016-06-21 | 2016-07-01 | - | @all | - | -
-*Release OS policy 1.0* | 2016-07-04 | 2016-07-04 | - | @all | - | -
+*Release OS policy 1.0* | 2016-07-04 | 2016-07-04 | - | @Rafael | @Neil, @Steve & @Mateusz | @all
