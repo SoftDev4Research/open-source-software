@@ -1,18 +1,16 @@
 # Open Source Software group
 This group aims to work on a Open Source Policy for software develomoent in life sciences
 
-## Open Source policy draft
-The draft is open for comments in a [google doc](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit)
-
-### Snapshots
+### Latest draft and snapshots
 We are taking snapshots to have a reference of previus versions and modifications
 
-Date | Version 
---- | --- 
-[2016-05-12](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-12%20Open%20source%20policy%20draft%200.2.md) | 0.2
-[2016-05-04](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-04%20Open%20source%20policy%20draft%200.2.md) | 0.2
-[2016-03-08](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-03-08%20Open%20source%20policy%20draft%200.2.md) | 0.2
-[2015-12-16](https://github.com/SoftDev4LS/open-source-software/blob/master/2015-12-16%20Open%20source%20policy%20draft%200.1.md) | 0.1
+Date | Type | Version 
+--- | --- | --- 
+[latest](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit) | draft | 0.3
+[2016-05-12](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-12%20Open%20source%20policy%20draft%200.2.md) | snapshot | 0.2
+[2016-05-04](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-04%20Open%20source%20policy%20draft%200.2.md) | snapshot | 0.2
+[2016-03-08](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-03-08%20Open%20source%20policy%20draft%200.2.md) | snapshot | 0.2
+[2015-12-16](https://github.com/SoftDev4LS/open-source-software/blob/master/2015-12-16%20Open%20source%20policy%20draft%200.1.md) | snapshot | 0.1
 
 
 ## Contributors
