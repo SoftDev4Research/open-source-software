@@ -6,12 +6,13 @@ We are taking snapshots to have a reference of previus versions and modification
 
 Date | Type | Version 
 --- | --- | --- 
-[latest](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit) | draft | 0.3
-[2016-10-08](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-10-08%20Open%20source%20policy%20draft%200.3.md) | snapshot | 0.3
-[2016-05-12](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-12%20Open%20source%20policy%20draft%200.2.md) | snapshot | 0.2
-[2016-05-04](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-04%20Open%20source%20policy%20draft%200.2.md) | snapshot | 0.2
-[2016-03-08](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-03-08%20Open%20source%20policy%20draft%200.2.md) | snapshot | 0.2
-[2015-12-16](https://github.com/SoftDev4LS/open-source-software/blob/master/2015-12-16%20Open%20source%20policy%20draft%200.1.md) | snapshot | 0.1
+latest | [publication - google doc](https://docs.google.com/document/d/1r_J1D2Lum1up5XXejCCBVKoPkGuMeYI11qgFAojRBAE/edit?usp=sharing), [supplementary material - google doc](https://docs.google.com/document/d/1EvhqaDlC1u2iVfqGv-lvPGOgTM5Gc0zRbe70OhaBcqM/edit?usp=sharing) | 1.0
+2016-10-08 | [google doc](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit) | 0.3
+2016-10-08 | [snapshot](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-10-08%20Open%20source%20policy%20draft%200.3.md) | 0.3
+2016-05-12 | [snapshot](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-12%20Open%20source%20policy%20draft%200.2.md) | 0.2
+2016-05-04 | [snapshot](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-04%20Open%20source%20policy%20draft%200.2.md) | 0.2
+2016-03-08 | [snapshot](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-03-08%20Open%20source%20policy%20draft%200.2.md) | 0.2
+2015-12-16 | [snapshot](https://github.com/SoftDev4LS/open-source-software/blob/master/2015-12-16%20Open%20source%20policy%20draft%200.1.md) | 0.1
 
 
 ## Contributors
