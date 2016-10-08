@@ -1,4 +1,4 @@
-#FAIR Open Source Software Principles
+#DRAFT: FAIR Open Source Software Principles
 
 Draft version 0.3
 
