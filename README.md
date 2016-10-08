@@ -7,6 +7,7 @@ We are taking snapshots to have a reference of previus versions and modification
 Date | Type | Version 
 --- | --- | --- 
 [latest](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit) | draft | 0.3
+[2016-10-08](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-10-08%20Open%20source%20policy%20draft%200.3.md) | snapshot | 0.3
 [2016-05-12](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-12%20Open%20source%20policy%20draft%200.2.md) | snapshot | 0.2
 [2016-05-04](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-04%20Open%20source%20policy%20draft%200.2.md) | snapshot | 0.2
 [2016-03-08](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-03-08%20Open%20source%20policy%20draft%200.2.md) | snapshot | 0.2
