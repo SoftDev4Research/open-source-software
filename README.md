@@ -42,4 +42,4 @@ Take an snapshot of OS policy draft 0.3 | 2016-05-26 | 2016-05-26 | - | @Rafael 
 [Integrate feedback](https://github.com/SoftDev4LS/open-source-software/issues/10) | 2016-06-15  | 2016-06-20 | - | @Rafael | @Steve and @Mateusz | -
 Provide feedback for OS principles draft | 2016-06-20 | 2016-10-31 | - | @all | - | -
 *Release OS policy 1.0* | 2016-10-31 | 2016-10-31 | - | @Rafael | @Neil, @Steve & @Mateusz | @all
-*Submit to Journal* | 2016-10-31 | 2016-10-30 | - | @Rafael | - | @all
+*Submit to Journal* | 2016-11-15 | 2016-11-15 | - | @Rafael | - | @all
