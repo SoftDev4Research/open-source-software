@@ -1,3 +1,6 @@
+# DRAFT: Open Source Principles for Research Software - publication - 1.0
+Dec 22, 2016
+
 # Authors
 
 Please add your name and institution below if you would like to be an author. We are inviting everybody that contributed to the principles to review and be an author of this manuscript. We are trying to keep track of all the contributions in this [spreadsheet](https://docs.google.com/spreadsheets/d/1JyFX5q2CQU7gzTuXrHrxKWYthnE9YcNWmu-qtB-nNxc/edit?usp=sharing). Please let us know if we need to update the spreadsheet by making a comment inside the spreadsheet. 
