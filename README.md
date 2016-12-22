@@ -35,12 +35,12 @@ Action/Task | From | To | Status | R/A | C | I
 [Provide feedback for OS policy draft 0.2](https://github.com/SoftDev4LS/open-source-software/issues/4) | 2016-03-09 | 2016-05-10 | Done | @all | - | -
 [Integrate feedback from ELIXIR all-hands break out session](https://github.com/SoftDev4LS/open-source-software/issues/08) | 2016-03-09 | 2016-05-11 | Done | @Mateusz | - | -
 [Take an snapshot of OS policy draft 0.2](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-05-12%20Open%20source%20policy%20draft%200.2.md) | 2016-05-12 | 2016-05-12 | Done | @Rafael | - | -
-*Release OS policy draft 0.3* | 2016-05-12 | 2016-05-19 | - | @Steve and @Mateusz & @Rafael | - | @all
+*Release OS policy draft 0.3* | 2016-05-12 | 2016-05-19 | Done | @Steve and @Mateusz & @Rafael | - | @all
 [Provide feedback for OS policy draft 0.3](https://github.com/SoftDev4LS/open-source-software/issues/9) | 2016-05-19 | 2016-06-20 | Done | @all | - | -
 Take an snapshot of OS policy draft 0.3 | 2016-05-26 | 2016-05-26 | Done | @Rafael | - | -
 [Share widely and proactively version 0.3](https://github.com/SoftDev4LS/open-source-software/issues/03) | 2016-05-26 | 2016-06-14 | Done | @Rafael, @Steve & @Mateusz  | - | @all
 [**On behalf of the SofDev4LS group present proposal to ELIXIR Heads of the Nodes**](https://github.com/SoftDev4LS/open-source-software/issues/11) | 2016-06-14 | 2016-06-14| Done | @Rafael | - | @all
-[Integrate feedback](https://github.com/SoftDev4LS/open-source-software/issues/10) | 2016-06-15  | 2016-06-20 | - | @Rafael | @Steve and @Mateusz | -
+[Integrate feedback](https://github.com/SoftDev4LS/open-source-software/issues/10) | 2016-06-15  | 2016-06-20 | Done | @Rafael | @Steve and @Mateusz | -
 Provide feedback for OS principles draft 1.0 | 2016-11-15 | 2016-12-20 | Done | @all | - | -
 [EMBL-ABR workshop on Open Source and Software Development Best Practice](https://www.embl-abr.org.au/bioinformatics-sw-workshop/) ([minutes/report](http://tinyurl.com/EMBL-ABR-software ))| 2016-12-08  | 2016-12-08 | - | @Rafael @Vicky @Jason | - | -
 Integrate feedback | 2016-12-21  | 2016-12-21 | Done | @Rafael | - | @all
