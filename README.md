@@ -7,6 +7,7 @@ We are taking snapshots to have a reference of previus versions and modification
 Date | Type | Version 
 --- | --- | --- 
 latest | [publication](https://docs.google.com/document/d/1r_J1D2Lum1up5XXejCCBVKoPkGuMeYI11qgFAojRBAE/edit?usp=sharing), [supplementary material](https://docs.google.com/document/d/1EvhqaDlC1u2iVfqGv-lvPGOgTM5Gc0zRbe70OhaBcqM/edit?usp=sharing) | 1.0
+2016-01-05 | [snapshot publication](https://github.com/SoftDev4LS/open-source-software/blob/master/2017-01-05%20Open%20Source%20Principles%20for%20Research%20Software%20-%20publication%20-%201.0.md) | 1.0
 2016-12-22 | [snapshot publication](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-12-22%20Open%20Source%20Principles%20for%20Research%20Software%20-%20publication%20-%201.0.md), [snapshot supplementary material](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-12-22%20Fears%20of%20open%20sourcing%20%26%20some%20ways%20to%20handle%20them%20-%20publication%20annex%201.0.md) | 1.0
 2016-10-08 | [google doc](https://docs.google.com/document/d/1C8sWr-r9RJBO-RZaDtgjmlHLHCyTHxsBrD6I12vknQs/edit) | 0.3
 2016-10-08 | [snapshot](https://github.com/SoftDev4LS/open-source-software/blob/master/2016-10-08%20Open%20source%20policy%20draft%200.3.md) | 0.3
