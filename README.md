@@ -1,5 +1,5 @@
 # Open Source Software group
-This group aims to work on a Open Source Policy for software develomoent in life sciences
+This group aims to work on a Open Source Policy for software development in life sciences
 
 ### Latest draft and snapshots
 We are taking snapshots to have a reference of previus versions and modifications
