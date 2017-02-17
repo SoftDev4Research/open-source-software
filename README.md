@@ -46,9 +46,9 @@ Provide feedback for OS principles draft 1.0 | 2016-11-15 | 2016-12-20 | Done | 
 [EMBL-ABR workshop on Open Source and Software Development Best Practice](https://www.embl-abr.org.au/bioinformatics-sw-workshop/) ([minutes/report](http://tinyurl.com/EMBL-ABR-software ))| 2016-12-08  | 2016-12-08 | - | @Rafael @Vicky @Jason | - | -
 Integrate feedback | 2016-12-21  | 2016-12-21 | Done | @Rafael | - | @all
 [Take an snapshot of OSS principles draft 1.0](https://github.com/SoftDev4Research/open-source-software/blob/master/2016-12-22%20Open%20Source%20Principles%20for%20Research%20Software%20-%20publication%20-%201.0.md) | 2016-12-22 | 2016-12-22 | Done | @Rafael | - | -
-Provide latest feedback for OSS principles 1.0 | 2016-12-21 | 2017-01-05 | Ongoing | @all | - | -
-*Release OSS principles 1.0 as a web page* | 2017-01-05 | 2017-01-11 | - | @Rafael | @Neil, @Steve & @Mateusz | -
-*Provide form for endorsement of OSS principles* | 2017-01-05 | 2017-01-13 | - | @Rafael | @Neil, @Steve & @Mateusz | -
-*Grammatical review* | 2017-01-05 | 2017-01-08 | - | @Steve and @Martin | - | -
-*Submit preprint* | 2017-01-08 | 2017-01-11 | - | @Rafael | @Neil, @Steve & @Mateusz| @all
-*Submit to Journal* | 2017-01-11 | 2017-01-13 | - | @Rafael | @Neil, @Steve & @Mateusz | @all
+Provide latest feedback for OSS principles 1.0 | 2016-12-21 | 2017-01-05 | Done | @all | - | -
+Grammatical review | 2017-01-05 | 2017-01-08 | Done | @Steve and @Martin | Done | -
+Release OSS principles 1.0 as a web page | 2017-01-05 | 2017-02-22 | Ongoing | @Rafael | @Neil, @Steve & @Mateusz | -
+Provide form for endorsement of OSS principles | 2017-01-05 | 2017-02-22 | Ongoing | @Rafael | @Neil, @Steve & @Mateusz | -
+Submit preprint | 2017-02-22 | 2017-02-24 | - | @Rafael | @Neil, @Steve & @Mateusz| @all
+Submit to Journal | 2017-02-22 | 2017-02-24 | - | @Rafael | @Neil, @Steve & @Mateusz | @all
